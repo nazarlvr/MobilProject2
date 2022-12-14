@@ -1,0 +1,38 @@
+<resources>
+    <string name="project_name">Проєкт №2</string>
+
+    <string name="database_button">БД</string>
+    <string name="contacts_button">Адресна книга</string>
+    <string name="geoservice_button">Геосервіс</string>
+    <string name="developer_button">Розробник</string>
+
+    <string name="name_hint">Назва предмету</string>
+    <string name="professor_hint">Викладач</string>
+    <string name="address_hint">Адреса корпусу</string>
+    <string name="mark_hint">Оцінка за предмет</string>
+    <string name="subject_add_text">Додати запис</string>
+
+    <string name="name_text">Назва: %s</string>
+    <string name="professor_text">Викладач: %s</string>
+    <string name="address_text">Адреса: %s</string>
+    <string name="mark_text">Оцінка: %d</string>
+    <string name="database_selection_text">Дисципліни, які викладає %s і за яким студент має бал>%d</string>
+    <string name="database_selection_value_text">Середній бал студента = %d</string>
+    <string name="database_delete_text">Видалити?</string>
+    <string name="yes">Так</string>
+
+    <string name="selection_contacts_text">Контакти з чоловічим іменем по батькові</string>
+
+    <string name="geoservice_text">Маршрут від Червоного корпуса КНУ</string>
+    <string name="geoservice_destination_hint">Пункт призначення</string>
+    <string name="geoservice_start_button">Прокласти маршрут</string>
+    <string name="geoservice_start_text">Прокласти маршрут до точки призначення?</string>
+
+    <string name="developer_text">Інформація про розробника</string>
+    <string name="developer_description">Лаврентюк Назар ТТП-41</string>
+
+    <string name="non_zero_int_error">Значення не може бути нулем</string>
+    <string name="mark_error">Значення маэ бути цілим числом від 0 до 100</string>
+    <string name="positive_int_error">Значення має бути невід\'ємним цілим</string>
+    <string name="empty_row_error">Значення не може бути порожнім рядком</string>
+</resources>
